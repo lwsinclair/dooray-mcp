@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mskim8717-dooray-mcp-badge.png)](https://mseep.ai/app/mskim8717-dooray-mcp)
+
 # Dooray MCP Server
 [![smithery badge](https://smithery.ai/badge/@mskim8717/dooray-mcp)](https://smithery.ai/server/@mskim8717/dooray-mcp)
 
